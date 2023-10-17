@@ -1,0 +1,5 @@
+package com.jdc.inherit;
+
+public class Dog extends Animal {
+
+}

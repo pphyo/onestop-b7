@@ -1,0 +1,12 @@
+package com.jdc.inherit;
+
+public class InheritApp {
+
+	public static void main(String[] args) {
+		
+		Animal ani = new Duck();
+		ani.eat("Weed");
+		
+	}
+
+}

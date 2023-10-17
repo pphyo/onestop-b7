@@ -1,0 +1,24 @@
+package com.jdc.composition;
+
+public class Engine {
+
+	private String model;
+	private double hp;
+
+	public String getModel() {
+		return model;
+	}
+
+	public void setModel(String model) {
+		this.model = model;
+	}
+
+	public double getHp() {
+		return hp;
+	}
+
+	public void setHp(double hp) {
+		this.hp = hp;
+	}
+
+}

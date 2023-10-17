@@ -1,0 +1,50 @@
+package com.jdc.app;
+
+public class GettingStartOopApp {
+	
+	public static void main(String[] args) {
+		
+		String format = """
+				ID    : %d
+				Name  : %s
+				Age   : %d
+				Phone : %s
+				""";
+
+		
+		var nami = new User();
+		nami.setName("Nami");
+		nami.setAge(26);
+		nami.setPhone("091230303");
+		nami.id ++;
+		nami.ageUp();
+		nami.ageUp();
+				
+		var zoro = new User();
+		zoro.setName("Zoro");
+		zoro.setAge(23);
+		zoro.setPhone("3829394903");
+		zoro.id ++;
+		zoro.ageUp();
+		
+		var luffy = new User("Monkey D Luffy", 22, "093202922");
+		
+		System.out.println(
+				format.formatted(
+						nami.id, nami.getName(), 
+						nami.getAge(), nami.getPhone()
+						));
+						
+		System.out.println(
+				format.formatted(
+						zoro.id, zoro.getName(),
+						zoro.getAge(), zoro.getPhone()
+						));
+		
+	}
+
+}
+
+
+
+

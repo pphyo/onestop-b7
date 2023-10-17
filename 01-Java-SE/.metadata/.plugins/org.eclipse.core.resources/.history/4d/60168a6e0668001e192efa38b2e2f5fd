@@ -1,0 +1,22 @@
+package com.jdc.app;
+
+import java.util.Scanner;
+
+public class User {
+
+	public static int id;
+	private String name;
+	private int age;
+	private String phone;
+	
+	Scanner sc = new Scanner(System.in);
+
+	public User() {
+		System.out.println("User Default Constructor");
+	}
+
+	public void ageUp() {
+		age++;
+	}
+
+}

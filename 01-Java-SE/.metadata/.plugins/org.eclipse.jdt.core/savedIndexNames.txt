@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+/home/pphyo/Documents/workspace/onestop-b7/01-Java-SE/.metadata/.plugins/org.eclipse.jdt.core
+241422331.index
+4275017200.index
+4082979428.index
+2009893216.index
+1865797976.index
+1351991971.index

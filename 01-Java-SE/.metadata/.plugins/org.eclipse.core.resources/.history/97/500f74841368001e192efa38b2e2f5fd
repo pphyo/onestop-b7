@@ -1,0 +1,9 @@
+package com.jdc.inherit;
+
+public class Dog {
+	
+	public Dog() {
+		System.out.println(new Animal().species);
+	}
+
+}

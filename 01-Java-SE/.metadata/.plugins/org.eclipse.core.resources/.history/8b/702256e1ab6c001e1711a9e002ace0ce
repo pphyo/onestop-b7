@@ -1,0 +1,8 @@
+package com.jdc.recap.amber;
+
+sealed abstract public class Node permits SingleNode, PairNode {
+
+}
+
+
+class SubNode extends Node {}

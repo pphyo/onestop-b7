@@ -1,0 +1,16 @@
+package com.jdc.app;
+
+public class GettingStartOopApp {
+	
+	public static void main(String[] args) {
+		
+		var user1 = new User();
+		user1.setName("Nami");
+		user1.setAge(28);
+		user1.setPhone("091230303");
+		
+		System.out.println(user1);
+		
+	}
+
+}

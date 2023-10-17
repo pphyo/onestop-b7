@@ -1,0 +1,21 @@
+package com.jdc.hello;
+
+public class FinalTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+class A {}
+
+class B extends A {}
+
+
+
+
+
+
+

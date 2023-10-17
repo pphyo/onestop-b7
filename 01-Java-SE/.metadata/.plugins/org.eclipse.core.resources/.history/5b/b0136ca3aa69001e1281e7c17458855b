@@ -1,0 +1,16 @@
+package com.jdc.composition;
+
+public class CompApp {
+
+	public static void main(String[] args) {
+		
+		var car = new Car();
+		
+		var person = new Person();
+		person.setCar(car);
+		
+		person.drive();
+
+	}
+
+}

@@ -1,0 +1,7 @@
+package com.jdc.recap.amber;
+
+public interface GetArea {
+	
+	int getArea();
+
+}

@@ -1,0 +1,11 @@
+package com.jdc.inherit;
+
+public class InheritApp {
+
+	public static void main(String[] args) {
+		
+		Animal duck = new Duck();
+		
+	}
+
+}

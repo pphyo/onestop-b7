@@ -1,0 +1,35 @@
+package com.jdc.app;
+
+public class GettingStartOopApp {
+	
+	public static void main(String[] args) {
+		
+		var nami = new User();
+		nami.setName("Nami");
+		nami.setAge(28);
+		nami.setPhone("091230303");
+		nami.id ++;
+		
+		var zoro = new User();
+		zoro.setName("Zoro");
+		zoro.setAge(24);
+		zoro.setPhone("3829394903");
+		zoro.id ++;
+		
+		String format = """
+				ID    : %d
+				Name  : %s
+				Age   : %d
+				Phone : %s
+				""";
+		
+		System.out.println(nami.getName());
+		System.out.println(zoro.getName());
+		
+	}
+
+}
+
+
+
+

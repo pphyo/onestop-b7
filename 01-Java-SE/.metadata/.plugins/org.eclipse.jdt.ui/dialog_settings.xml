@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="0"/>
+	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="OSGi/Minimum-1.1"/>
+	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo.comments" value="false"/>
+	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo" value="false"/>
+	<section name="JavaElementSearchActions">
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="org.eclipse.jdt.ui.typecomment.deprecated" value="true"/>
+	</section>
+	<section name="NewClassWizardPage">
+		<item key="create_constructor" value="false"/>
+		<item key="create_unimplemented" value="true"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="NewPackageWizardPage">
+		<item key="create_package_info_java" value="false"/>
+	</section>
+	<section name="RenameInformationPopup">
+	</section>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+	</section>
+	<section name="SourceActionDialog.methods">
+		<item key="VisibilityModifier" value="1"/>
+		<item key="FinalModifier" value="false"/>
+		<item key="SynchronizedModifier" value="false"/>
+		<item key="Comments" value="false"/>
+		<item key="InstanceOf" value="false"/>
+		<item key="Blocks" value="false"/>
+		<item key="Objects.equals &amp; Objects.hash" value="true"/>
+	</section>
+	<section name="AddGetterSetterDialog">
+		<item key="SortOrdering" value="false"/>
+		<item key="RemoveFinal" value="false"/>
+	</section>
+	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="360"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="652"/>
+		<item key="DIALOG_HEIGHT" value="723"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+	</section>
+	<section name="SourceActionDialog.constructors">
+		<item key="VisibilityModifier" value="1"/>
+		<item key="FinalModifier" value="false"/>
+		<item key="SynchronizedModifier" value="false"/>
+		<item key="Comments" value="false"/>
+	</section>
+	<section name="GenerateConstructorUsingFieldsSelectionDialog">
+		<item key="OmitCallToSuper" value="false"/>
+	</section>
+	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="369"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="635"/>
+		<item key="DIALOG_HEIGHT" value="721"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History/&gt;"/>
+		<item key="WorkingSet" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="386"/>
+			<item key="DIALOG_Y_ORIGIN" value="28"/>
+			<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+		</section>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item key="width" value="600"/>
+		<item key="height" value="400"/>
+	</section>
+	<section name="DialogBounds_GenerateHashCodeEqualsDialog">
+		<item key="DIALOG_X_ORIGIN" value="400"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="572"/>
+		<item key="DIALOG_HEIGHT" value="622"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+	</section>
+</section>

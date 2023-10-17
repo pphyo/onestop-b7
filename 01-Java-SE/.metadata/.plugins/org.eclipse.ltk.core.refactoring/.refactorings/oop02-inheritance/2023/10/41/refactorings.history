@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;oop02-inheritance&apos;&#x0A;- Original project: &apos;oop02-inheritance&apos;&#x0A;- Original element: &apos;oop02-inheritance/src/com.jdc.inherit.pkg&apos;" description="Delete element" element1="/src&lt;com.jdc.inherit.pkg" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1697014303327" subPackages="false" version="1.0"/>
+</session>

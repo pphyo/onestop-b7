@@ -1,0 +1,10 @@
+package com.jdc.abstraction;
+
+public abstract class Cannie extends Animal {
+
+	@Override
+	public void move() {
+		
+	}
+	
+}

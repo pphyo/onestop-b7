@@ -1,0 +1,41 @@
+package com.jdc.abstraction;
+
+class MyInterOne {
+	void perform() {}
+}
+
+class MyInterTwo {
+	void perform() {}
+}
+
+//interface MyInterThree extends MyInterOne, MyInterTwo {
+//	
+//}
+
+public class AbstractionApp extends MyInterOne, MyInterTwo {
+	
+	@Override
+	public void perform() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public static void main(String[] args) {
+
+		// anonymous inner class
+		Animal animal = new Animal() {
+
+			@Override
+			public void move() {
+				System.out.println("Animal moves");
+			}
+			
+		};
+		animal.move();
+		
+		Animal ani = new Panda();
+		ani.move();
+
+	}
+
+}

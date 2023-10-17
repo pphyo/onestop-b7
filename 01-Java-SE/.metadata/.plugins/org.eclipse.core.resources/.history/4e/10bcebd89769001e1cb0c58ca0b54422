@@ -1,0 +1,5 @@
+package com.jdc.abstraction;
+
+public class Panda extends Animal {
+
+}

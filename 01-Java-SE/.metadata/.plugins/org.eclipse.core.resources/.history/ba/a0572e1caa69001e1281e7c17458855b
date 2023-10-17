@@ -1,0 +1,10 @@
+package com.jdc.composition;
+
+public class Person {
+	
+	private String name;
+	private String phone;
+	
+	private Car car;
+
+}

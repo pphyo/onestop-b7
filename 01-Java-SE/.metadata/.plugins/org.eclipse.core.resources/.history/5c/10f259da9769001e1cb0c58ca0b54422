@@ -1,0 +1,11 @@
+package com.jdc.abstraction;
+
+public class Panda extends Animal {
+
+	@Override
+	public void move() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

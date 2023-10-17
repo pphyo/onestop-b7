@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="java.lang.System.Logger"/>
+    <fullyQualifiedTypeName name="com.jdc.inherit.Dog"/>
+    <fullyQualifiedTypeName name="com.jdc.inherit.Animal"/>
+    <fullyQualifiedTypeName name="com.jdc.inherit.MyChildClass"/>
+    <fullyQualifiedTypeName name="com.jdc.inherit.MyParentClass"/>
+    <fullyQualifiedTypeName name="com.jdc.inherit.MyGrandChildClass"/>
+    <fullyQualifiedTypeName name="com.jdc.abstraction.Animal"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="com.jdc.abstraction.MyInterTwo"/>
+    <fullyQualifiedTypeName name="com.jdc.abstraction.MyInterOne"/>
+    <fullyQualifiedTypeName name="com.jdc.abstraction.CanFly"/>
+    <fullyQualifiedTypeName name="com.jdc.recap.amber.Rectangle"/>
+    <fullyQualifiedTypeName name="com.jdc.recap.amber.sub.SubNode"/>
+    <fullyQualifiedTypeName name="com.jdc.recap.amber.Node"/>
+    <fullyQualifiedTypeName name="com.jdc.recap.amber.SuperSealed"/>
+</qualifiedTypeNameHistroy>

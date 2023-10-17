@@ -1,0 +1,31 @@
+package com.jdc.inherit.overload;
+
+public class OverloadApp {
+	
+	public static void main(String[] args) {
+		
+	}
+	
+	// overload
+	static void add() {}
+	
+	static void add(int a) {}
+	
+	static void add(int a, int b) {}
+	
+	static void add(double a, double b) {}
+	
+	static void add(int a, double b) {}
+	
+	static void add(double a, int b) {}
+
+}
+
+
+
+
+
+
+
+
+

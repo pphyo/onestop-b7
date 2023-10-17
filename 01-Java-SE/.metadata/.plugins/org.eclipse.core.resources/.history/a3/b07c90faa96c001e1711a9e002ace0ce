@@ -1,0 +1,5 @@
+package com.jdc.recap.amber;
+
+public record Square() extends PairNode {
+
+}

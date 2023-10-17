@@ -1,0 +1,37 @@
+package com.jdc.composition;
+
+public class Car {
+
+	private String model;
+	private String year;
+	private int door;
+	private int wheel;
+	
+	private Engine engine;
+	
+	public void move() {
+		engine.start();
+		System.out.println("Car is moving...");
+	}
+	
+	public void stop() {
+		engine.stop();
+	}
+
+	public String getModel() {
+		return model;
+	}
+
+	public String getYear() {
+		return year;
+	}
+
+	public int getDoor() {
+		return door;
+	}
+
+	public int getWheel() {
+		return wheel;
+	}
+
+}

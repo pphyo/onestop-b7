@@ -1,0 +1,14 @@
+package com.jdc.inherit;
+
+public class Duck extends Animal {
+	
+	public Duck() {
+		super("Pet");
+	}
+	
+	@Override
+	public void eat(String meat) {
+		super.eat(meat);
+	}
+
+}

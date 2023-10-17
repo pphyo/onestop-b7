@@ -1,0 +1,8 @@
+package com.jdc.abstraction;
+
+public interface CanSwim {
+
+	public static final int i1 = 10;
+	
+	public abstract void swim();
+}

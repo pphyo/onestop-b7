@@ -1,0 +1,5 @@
+package com.jdc.hello;
+
+public sealed class Snake {
+
+}

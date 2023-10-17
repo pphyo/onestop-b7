@@ -1,0 +1,5 @@
+package com.jdc.inherit.pkg;
+
+public class Cat {
+
+}

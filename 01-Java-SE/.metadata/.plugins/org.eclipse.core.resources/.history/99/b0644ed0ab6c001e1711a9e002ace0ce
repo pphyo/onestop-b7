@@ -1,0 +1,7 @@
+package com.jdc.recap.amber.sub;
+
+import com.jdc.recap.amber.Node;
+
+public final class SubNode extends Node {
+
+}

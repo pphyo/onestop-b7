@@ -1,0 +1,10 @@
+package com.jdc.composition;
+
+public class Car {
+	
+	private String model;
+	private String year;
+	private int door;
+	private int wheel;
+
+}

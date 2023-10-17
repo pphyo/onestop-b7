@@ -1,0 +1,13 @@
+package com.jdc.inherit.overload;
+
+public class OverloadApp {
+	
+	public static void main(String[] args) {
+		
+	}
+	
+	static void add() {}
+	
+	static void add(int a) {}
+
+}
