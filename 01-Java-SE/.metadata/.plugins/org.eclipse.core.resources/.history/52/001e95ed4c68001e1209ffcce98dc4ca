@@ -1,7 +1,0 @@
-package com.jdc.hello;
-
-public sealed class Snake {
-
-}
-
-class Cobra extends Sanke {}

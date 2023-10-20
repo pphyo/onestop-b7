@@ -16,4 +16,27 @@
     <fullyQualifiedTypeName name="com.jdc.recap.amber.sub.SubNode"/>
     <fullyQualifiedTypeName name="com.jdc.recap.amber.Node"/>
     <fullyQualifiedTypeName name="com.jdc.recap.amber.SuperSealed"/>
+    <fullyQualifiedTypeName name="com.jdc.recap.nested.Outer"/>
+    <fullyQualifiedTypeName name="com.jdc.recap.nested.Outer.InnnerStatic"/>
+    <fullyQualifiedTypeName name="com.jdc.recap.nested.Outer.InnerInstance"/>
+    <fullyQualifiedTypeName name="com.jdc.solid.srp.Shape"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="com.jdc.solid.srp.CalculateArea"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Assertions"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Order"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.TestMethodOrder"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.MethodOrderer"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.MethodOrderer.OrderAnnotation"/>
+    <fullyQualifiedTypeName name="com.jdc.app.main.Message"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.AfterAll"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeAll"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeEach"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.AfterEach"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="com.jdc.app.main.AppService"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.DisplayName"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.function.Executable"/>
 </qualifiedTypeNameHistroy>

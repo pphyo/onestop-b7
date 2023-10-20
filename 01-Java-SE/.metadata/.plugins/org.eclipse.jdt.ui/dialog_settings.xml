@@ -4,6 +4,7 @@
 	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="OSGi/Minimum-1.1"/>
 	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo.comments" value="false"/>
 	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo" value="false"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="/home/pphyo/Downloads/junit"/>
 	<section name="JavaElementSearchActions">
 	</section>
 	<section name="OptionalMessageDialog.hide.">
@@ -82,5 +83,11 @@
 		<item key="DIALOG_WIDTH" value="572"/>
 		<item key="DIALOG_HEIGHT" value="622"/>
 		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item key="pageIndex" value="2"/>
+	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item key="index" value="8"/>
 	</section>
 </section>

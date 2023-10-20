@@ -1,5 +1,0 @@
-package com.jdc.inherit;
-
-public class Duck extends Animal {
-
-}
