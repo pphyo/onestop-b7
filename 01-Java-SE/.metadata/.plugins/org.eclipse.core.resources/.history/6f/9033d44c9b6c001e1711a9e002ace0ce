@@ -1,9 +1,0 @@
-package com.jdc.recap;
-
-public class RecapApp {
-
-	public static void main(String[] args) {
-		
-	}
-
-}

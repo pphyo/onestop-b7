@@ -1,7 +1,0 @@
-package com.jdc.abstraction;
-
-public interface CanSwim {
-	public int i1;
-	public static int i2;
-	public abstract void swim();
-}

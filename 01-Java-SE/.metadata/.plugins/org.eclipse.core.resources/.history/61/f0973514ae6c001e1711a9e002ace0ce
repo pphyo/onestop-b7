@@ -1,8 +1,0 @@
-package com.jdc.recap.amber.sub;
-
-public sealed class Snake {
-
-
-}
-
-final class Cobra extends SuperSealed {}

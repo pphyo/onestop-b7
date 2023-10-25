@@ -1,8 +1,0 @@
-package com.jdc.recap.amber.sub;
-
-public sealed class SuperSealed permits SubSealed {
-
-
-}
-
-final class SubSealed extends SuperSealed {}

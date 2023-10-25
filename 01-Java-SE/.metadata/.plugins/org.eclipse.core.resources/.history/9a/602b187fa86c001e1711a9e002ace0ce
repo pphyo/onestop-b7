@@ -1,5 +1,0 @@
-package com.jdc.recap.amber;
-
-public final class Rectangle extends PairNode {
-
-}

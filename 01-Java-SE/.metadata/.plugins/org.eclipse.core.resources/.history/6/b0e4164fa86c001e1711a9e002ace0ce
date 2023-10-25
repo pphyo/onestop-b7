@@ -1,5 +1,0 @@
-package com.jdc.recap.amber;
-
-public non-sealed class SingleNode extends Node {
-
-}

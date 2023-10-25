@@ -1,7 +1,0 @@
-package com.jdc.recap.amber;
-
-public sealed interface GetArea permits Rectangle {
-	
-	int getArea();
-
-}
