@@ -2,11 +2,15 @@ package com.jdc.exept.test;
 
 import java.util.Properties;
 
+import org.junit.jupiter.api.Disabled;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 public class ExceptionTest {
 	
 	@Test
+	@Disabled
+	@DisplayName("")
 	void test_property() {
 		Properties props = System.getProperties();
 		props.list(System.out);
