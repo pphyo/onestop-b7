@@ -2,6 +2,10 @@ package com.jdc.generic;
 
 public class GenericApp {
 	
+//	public <U> GenericApp(U t) { // Generic Constructor
+//		
+//	}
+	
 	static void genericType() {
 		GenericBox<Integer> intBox = new GenericBox<>();
 		intBox.setData(100);
