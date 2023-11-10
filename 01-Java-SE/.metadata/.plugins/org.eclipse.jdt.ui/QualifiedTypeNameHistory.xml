@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
-    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
-    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="com.jdc.except.AppService"/>
-    <fullyQualifiedTypeName name="java.io.IOException"/>
-    <fullyQualifiedTypeName name="com.jdc.except.JdcAppException"/>
-    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
-    <fullyQualifiedTypeName name="java.util.Properties"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="com.jdc.java5.anno.MyAnnotation"/>
     <fullyQualifiedTypeName name="java.lang.annotation.Target"/>
     <fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
@@ -25,13 +16,11 @@
     <fullyQualifiedTypeName name="com.jdc.generic.bound.CompImpl"/>
     <fullyQualifiedTypeName name="com.jdc.generic.inherit.InheritBox"/>
     <fullyQualifiedTypeName name="com.jdc.generic.multi_type.MultiTypeApp"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.io.Serializable"/>
     <fullyQualifiedTypeName name="java.util.RandomAccess"/>
     <fullyQualifiedTypeName name="java.lang.Cloneable"/>
     <fullyQualifiedTypeName name="com.jdc.lambda.CanAdd"/>
     <fullyQualifiedTypeName name="com.jdc.lambda.Addition"/>
-    <fullyQualifiedTypeName name="org.junit.jupiter.params.ParameterizedTest"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.params.provider.CsvSource"/>
     <fullyQualifiedTypeName name="com.jdc.lambda.Calculable"/>
     <fullyQualifiedTypeName name="com.jdc.lambda.CanDisplay"/>
@@ -53,11 +42,22 @@
     <fullyQualifiedTypeName name="javax.management.RuntimeErrorException"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.DisplayName"/>
     <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
-    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
     <fullyQualifiedTypeName name="java.util.function.Function"/>
     <fullyQualifiedTypeName name="java.util.function.BiFunction"/>
     <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
-    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
     <fullyQualifiedTypeName name="com.jdc.lambda.calculator.FunctionalCalculator"/>
     <fullyQualifiedTypeName name="com.jdc.lambda.calculator.FunctionalCalculator.Operator"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="com.jdc.lambda.refactor.Apple"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.params.provider.ValueSource"/>
+    <fullyQualifiedTypeName name="com.jdc.stream.Item"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.params.ParameterizedTest"/>
+    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.params.provider.Arguments"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.params.provider.MethodSource"/>
 </qualifiedTypeNameHistroy>
