@@ -9,13 +9,22 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
 @WebServlet(urlPatterns = "/forward")
-public class FowardServlet extends HttpServlet {
+public class ForwardServlet extends HttpServlet {
 
 	private static final long serialVersionUID = 1L;
 	
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-		
+		req.setAttribute("forwardMessage", "This is from Forward Servlet");
+		getServletContext().getNamedDispatcher("ForwardToServlet").forward(req, resp);
 	}
 
 }
+
+
+
+
+
+
+
+

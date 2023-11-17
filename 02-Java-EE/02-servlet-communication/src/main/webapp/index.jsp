@@ -11,6 +11,7 @@
 	<ul>
 		<li><a href="include">Include</a></li>
 		<li><a href="forward">Forward</a></li>
+		<li><a href="redirect">Redirect</a></li>
 	</ul>
 </body>
 </html>
